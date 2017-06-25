@@ -19,7 +19,7 @@ import VerticalStackLayoutHeaderContentFooter from './components/layouts/Vertica
 export default class App extends React.Component {
     render() {
         return (
-            <FlexboxGridLibrary/>
+            <GridLayout/>
         );
     }
 }
